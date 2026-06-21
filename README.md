@@ -8,7 +8,7 @@ Software Engineer & Full Stack Developer
 * 🖥️  See my portfolio at [Linkedin Profile](http://www.linkedin.com/in/eur-ing-tc-hazwan-bin-hosdi-52238a273)
 * ✉️  You can contact me at [hazwanwawan98@gmail.com](mailto:hazwanwawan98@gmail.com)
 * 🚀  I'm currently working on [AIMeCHA Initiatives](https://aimecha-initiatives.onrender.com/)
-* 🧠  I'm currently learning at freecodecamp 
+* 🧠  I'm currently learning at WorldQuant University and freecodecamp 
 * 👥  I'm looking to collaborate on WEB Development and any programming project
 
 <p align="left">
